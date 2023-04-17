@@ -1,0 +1,4 @@
+vless://d2f81a87-35c9-4054-f1df-377e644fc3c4@irancell-i.Khasteh-shodam.cloud:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test5.Khasteh-shodam.cloud#srv1%7CDonater8-irancell%7C100GB
+vless://d2f81a87-35c9-4054-f1df-377e644fc3c4@irancell1.Khasteh-shodam.cloud:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test5.Khasteh-shodam.cloud#srv1%7CDonater8-irancell%7C100GB
+vless://d2f81a87-35c9-4054-f1df-377e644fc3c4@irancell2.Khasteh-shodam.cloud:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test5.Khasteh-shodam.cloud#srv1%7CDonater8-irancell%7C100GB
+vless://d2f81a87-35c9-4054-f1df-377e644fc3c4@irancell3.Khasteh-shodam.cloud:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test5.Khasteh-shodam.cloud#srv1%7CDonater8-irancell%7C100GB
