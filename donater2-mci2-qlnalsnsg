@@ -1,0 +1,3 @@
+vless://5d3c3848-c30d-4e32-8672-3f4c79d4df94@mci-i.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2%7CDonater2-mci2%7C100GB
+vless://5d3c3848-c30d-4e32-8672-3f4c79d4df94@mci1.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2%7CDonater2-mci2%7C100GB
+vless://5d3c3848-c30d-4e32-8672-3f4c79d4df94@mci2.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2%7CDonater2-mci2%7C100GB
