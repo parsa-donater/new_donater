@@ -1,0 +1,5 @@
+vless://85a58fd3-5adb-43e1-ca09-b6557b58158a@irancell-i.khasteh-shodam.cloud:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv3%7CDonater13-irancell2
+vless://85a58fd3-5adb-43e1-ca09-b6557b58158a@irancell1.khasteh-shodam.cloud:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv3%7CDonater13-irancell2
+vless://85a58fd3-5adb-43e1-ca09-b6557b58158a@irancell2.khasteh-shodam.cloud:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv3%7CDonater13-irancell2
+vless://85a58fd3-5adb-43e1-ca09-b6557b58158a@irancell3.khasteh-shodam.cloud:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv3%7CDonater13-irancell2
+vless://6657b245-25cb-4254-d2b1-e844cfb233aa@donater1.khasteh-shodam.cloud:11637?security=reality&encryption=none&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=gmail.com&sid=206d26bd#Real1%7CDonater1-srv1
