@@ -1,4 +1,5 @@
 vless://61c430e7-de9b-4317-842f-6d332a03ab59@shatel1.khasteh-shodam.cloud:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv3%7CDonater11-mtn-shatel%7C100GB
+vless://61c430e7-de9b-4317-842f-6d332a03ab59@shatel2.khasteh-shodam.cloud:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv3%7CDonater11-mtn-shatel%7C100GB
 vless://61c430e7-de9b-4317-842f-6d332a03ab59@mokhaberat1.khasteh-shodam.cloud:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv3%7CDonater11-mtn-shatel%7C100GB
 vless://61c430e7-de9b-4317-842f-6d332a03ab59@mokhaberat2.khasteh-shodam.cloud:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv3%7CDonater11-mtn-shatel%7C100GB
 vless://61c430e7-de9b-4317-842f-6d332a03ab59@mci-i.khasteh-shodam.cloud:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv3%7CDonater11-mtn-shatel%7C100GB
