@@ -1,0 +1,7 @@
+vless://764ee9f0-8963-4ffb-b7e4-e82003d46060@mci1.khasteh-shodam.cloud:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test5.Khasteh-shodam.cloud#srv1%7CDonater15-mci%7C300GB
+vless://764ee9f0-8963-4ffb-b7e4-e82003d46060@mci2.khasteh-shodam.cloud:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test5.Khasteh-shodam.cloud#srv1%7CDonater15-mci%7C300GB
+vless://764ee9f0-8963-4ffb-b7e4-e82003d46060@mci3.khasteh-shodam.cloud:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test5.Khasteh-shodam.cloud#srv1%7CDonater15-mci%7C300GB
+vless://764ee9f0-8963-4ffb-b7e4-e82003d46060@mci-i.khasteh-shodam.cloud:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test5.Khasteh-shodam.cloud#srv1%7CDonater15-mci%7C300GB
+vless://764ee9f0-8963-4ffb-b7e4-e82003d46060@mci-i2.khasteh-shodam.cloud:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test5.Khasteh-shodam.cloud#srv1%7CDonater15-mci%7C300GB
+vless://764ee9f0-8963-4ffb-b7e4-e82003d46060@mci.khasteh-shodam.cloud:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test5.Khasteh-shodam.cloud#srv1%7CDonater15-mci%7C300GB
+vless://6657b245-25cb-4254-d2b1-e844cfb233aa@donater1.khasteh-shodam.cloud:11637?security=reality&encryption=none&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=gmail.com&sid=206d26bd#Real1%7CDonater1-srv1
