@@ -1,0 +1,12 @@
+vless://364a2c74-42ec-42fb-b477-ac6f95c034b8@mci1.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2-donater2-2-mci
+vless://364a2c74-42ec-42fb-b477-ac6f95c034b8@mci2.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2-donater2-2-mci
+vless://364a2c74-42ec-42fb-b477-ac6f95c034b8@mci3.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2-donater2-2-mci
+vless://364a2c74-42ec-42fb-b477-ac6f95c034b8@mci-i.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2-donater2-2-mci
+vless://364a2c74-42ec-42fb-b477-ac6f95c034b8@mci-i2.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2-donater2-2-mci
+vless://364a2c74-42ec-42fb-b477-ac6f95c034b8@mci.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2-donater2-2-mci
+vless://364a2c74-42ec-42fb-b477-ac6f95c034b8@shatel1.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2-donater2-2-shatel
+vless://364a2c74-42ec-42fb-b477-ac6f95c034b8@shatel2.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2-donater2-2-shatel
+vless://364a2c74-42ec-42fb-b477-ac6f95c034b8@mokhaberat1.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2-donater2-2-shatel
+vless://364a2c74-42ec-42fb-b477-ac6f95c034b8@mokhaberat2.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2-donater2-2-shatel
+vmess://eyJhZGQiOiJkb25hdGVyMS5raGFzdGVoLXNob2RhbS5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZXhvLmlyIiwiaWQiOiJiMDUxODMzMi0yOTVmLTQ2ODQtYTA4MC04MjBlMzYwMTFmM2EiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDEyMSIsInBzIjoiVENQIHwgRG9uYXRlcjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://6657b245-25cb-4254-d2b1-e844cfb233aa@donater1.khasteh-shodam.cloud:11637?security=reality&encryption=none&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=gmail.com&sid=206d26bd#Real1%7CDonater1-srv1
