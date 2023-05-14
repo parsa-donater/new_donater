@@ -1,0 +1,7 @@
+vless://6647b23c-6107-43cf-c7af-96f000d0f0c6@irancell-i.khasteh-shodam.cloud:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv3%7CDonater21-irancell
+vless://6647b23c-6107-43cf-c7af-96f000d0f0c6@irancell1.khasteh-shodam.cloud:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv3%7CDonater21-irancell
+vless://6647b23c-6107-43cf-c7af-96f000d0f0c6@irancell2.khasteh-shodam.cloud:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv3%7CDonater21-irancell
+vless://6647b23c-6107-43cf-c7af-96f000d0f0c6@irancell3.khasteh-shodam.cloud:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv3%7CDonater21-irancell
+vless://1885249f-0d42-4af8-88e0-1c9ccc26aa40@donater1.khasteh-shodam.cloud:41456?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#Vlees+TCP-donater
+vless://6657b245-25cb-4254-d2b1-e844cfb233aa@donater1.khasteh-shodam.cloud:11637?security=reality&encryption=none&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=gmail.com&sid=206d26bd#Real1%7CDonater1-srv1
+vmess://eyJhZGQiOiJkb25hdGVyMS5raGFzdGVoLXNob2RhbS5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZXhvLmlyIiwiaWQiOiJiMDUxODMzMi0yOTVmLTQ2ODQtYTA4MC04MjBlMzYwMTFmM2EiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDEyMSIsInBzIjoiVENQIHwgRG9uYXRlcjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
